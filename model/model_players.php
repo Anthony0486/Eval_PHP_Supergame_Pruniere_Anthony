@@ -1,0 +1,3 @@
+<?php
+//MODEL POUR LA CLASS MODELPLAYER
+?>
